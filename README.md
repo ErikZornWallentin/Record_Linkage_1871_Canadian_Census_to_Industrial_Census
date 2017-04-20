@@ -1,5 +1,5 @@
 # Record Linkage 1871 Canadian Census to Industrial Census
-'''
+****************************************************
 	Author: Erik Zorn - Wallentin.
 	Last Edit: April. 4 / 2017.
 	
@@ -62,4 +62,4 @@
 	https://docs.python.org/2/library/sys.html
 	https://docs.python.org/2/library/datetime.html
 	
-'''
+****************************************************
